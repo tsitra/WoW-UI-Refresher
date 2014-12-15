@@ -1,0 +1,8 @@
+## Interface: 60000
+## Version: 0.0.1
+## Title: Refresher
+## Author: Tsitra_irl
+## Notes: Tool to help with refreshing client
+
+embeds.xml
+Refresher.lua
