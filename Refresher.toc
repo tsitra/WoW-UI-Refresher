@@ -3,6 +3,7 @@
 ## Title: Refresher
 ## Author: Tsitra_irl
 ## Notes: Tool to help with refreshing client
+## Source-URL: https://github.com/tsitra/WoW-UI-Refresher
 
 embeds.xml
 Refresher.lua
